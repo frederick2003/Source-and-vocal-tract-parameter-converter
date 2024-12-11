@@ -13,7 +13,7 @@ Save the converted results to a file for future reference.
 
 Steps to Use the Tool
 
-Download the file Parameter_Converter.zip (ctrl shift s or use the three buttons in the top right of the window) and unzip the files on your machine.
+Download the file Parameter_Converter.zip (ctrl shift s or use the three buttons in the top right of the window) and unzip the files on your machine (Windows might raise a warning however, unzip anyway).
 Select the application/executable file Parameter_Converter.exe.
 A terminal will appear proceeded by a User Interface.
 In the user interface enter your analysis parameters (EE, RA, RK, RG) in the respective input fields.
